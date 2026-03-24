@@ -121,9 +121,6 @@ function findPoisonBottle(deathResults, total) {
 }
 ```
 
-## 在线演示
-
-部署后即可访问。
 
 ## License
 
